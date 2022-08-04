@@ -107,15 +107,15 @@ There are `1000 users`  in Uzbekistan. You need at least `6 followers` to be on 
 	<tr>
 		<td>1</td>
 		<td>
-			<a href="https://github.com/ilosrim">
+			<a href="https://github.com/azizbekrakhimjonov">
 				<img src="https://avatars.githubusercontent.com/u/75356279?s=72&u=c2c264e5548f55c132dadcd41de3c2ece19800fb&v=4" width="24" alt="Avatar of ilosrim"> ilosrim
 			</a><br/>
 			mirsoli
 		</td>
-		<td>@biodasturchi @codahiri </td>
-		<td><a href="https://twitter.com/ilosrim">ilosrim</a></td>
-		<td>Fergana, Uzbekistan</td>
-		<td>304303</td>
+		<td>@umodum </td>
+		<td><a href="https://twitter.com/azizbekrahimjonov571">azizbekrahimjono571</a></td>
+		<td>Namangan, Uzbekistan</td>
+		<td>304304</td>
 	</tr>
 	<tr>
 		<td>2</td>
